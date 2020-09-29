@@ -1,12 +1,9 @@
-img{
-    max-width: 100%;
-}
 
-body{
-    margin: 0;
-}
 
 @import 'styles/settings/colors.settings';
+
+@import 'styles/elements/body.elements';
+@import 'styles/elements/img.elements';
 
 @import 'styles/blocks/section.blocks';
 @import 'styles/blocks/link.blocks';

@@ -1,0 +1,14 @@
+img{
+    max-width: 100%;
+}
+
+body{
+    margin: 0;
+}
+
+@import 'styles/settings/colors.settings';
+
+@import 'styles/blocks/section.blocks';
+@import 'styles/blocks/link.blocks';
+@import 'styles/blocks/text-primary.blocks';
+

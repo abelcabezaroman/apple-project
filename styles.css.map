@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,GAAG,CAAA;EACC,SAAS,EAAE,IAAI;CAClB;;AAED,AAAA,IAAI,CAAA;EACA,MAAM,EAAE,CAAC;CACZ;;AEND,AAAA,UAAU,CAAA;EACN,KAAK,EAAE,IAAI;EACX,gBAAgB,EDED,OAAO;ECDtB,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,cAAc,EAAE,MAAM;EACtB,OAAO,EAAE,GAAG;CAYf;;AAXI,AAAD,eAAM,CAAA;EACF,KAAK,EAAE,KAAK;EACZ,OAAO,EAAE,IAAI;CAKhB;;AAJI,AAAD,oBAAM,CAAA;EACF,KAAK,EAAE,KAAK;EACZ,OAAO,EAAE,GACb;CAAC;;AAEJ,AAAD,gBAAO,CAAA;EACH,gBAAgB,EDhBV,IAAI;CCiBb;;ACjBL,AAAA,OAAO,CAAA;EACH,KAAK,EFCI,OAAO;EEAhB,WAAW,EAAE,WAAW;EACxB,eAAe,EAAE,IAAI;CACxB;;ACJD,AAAA,eAAe,CAAA;EACX,KAAK,EHAK,IAAI;EGCd,WAAW,EAAE,WAAW;CAI3B;;AAHI,AAAD,qBAAO,CAAA;EACH,KAAK,EHDQ,IAAI;CGEpB",
+    "sources": [
+        "styles.scss",
+        "styles/settings/_colors.settings.scss",
+        "styles/blocks/_section.blocks.scss",
+        "styles/blocks/_link.blocks.scss",
+        "styles/blocks/_text-primary.blocks.scss"
+    ],
+    "names": [],
+    "file": "styles.css"
+}

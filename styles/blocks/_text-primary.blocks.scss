@@ -1,0 +1,7 @@
+.b-text-primary{
+    color: $color-white;
+    font-family: 'Helvetica';
+    &--dark{
+        color: $color-text-primary;
+    }
+}
